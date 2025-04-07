@@ -49,7 +49,7 @@ O computador tenta sempre deixar o jogador em uma posição onde ele precise ret
 
 1. Clone este repositório para o seu computador:
    ```bash
-   git clone https://github.com/seu-usuario/jogo-nim.git
+   https://github.com/WallyssonSousa/jogo-nim.git
 
 2. Navegue até o diretório do repositório: 
 
